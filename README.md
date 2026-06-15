@@ -13,7 +13,7 @@ A premium developer portfolio built with **Next.js** and **React**, featuring im
   <img src="https://img.shields.io/badge/Responsive-100%25-success?style=for-the-badge"/>
 </p>
 
-[🌐 Live Demo](https://your-portfolio.vercel.app) •
+[🌐 Live Demo](https://kexer.vercel.app/) •
 [💻 Source Code](https://github.com/karim2762/portfolio-)
 
 </div>
@@ -109,28 +109,13 @@ Build production
 npm run build
 ```
 
----
-
-# 📸 Preview
-
-> Add screenshots or GIFs here after deployment.
-
-Example:
-
-```
-/preview/home.png
-/preview/about.png
-/preview/projects.png
-```
-
----
 
 # 🌐 Live Website
 
-Replace with your deployed website.
+
 
 ```
-https://your-portfolio.vercel.app
+https://kexer.vercel.app/
 ```
 
 ---
